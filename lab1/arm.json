@@ -7,10 +7,10 @@
         {
             "type": "Microsoft.Storage/storageAccounts",
             "apiVersion": "2018-07-01",
-            "name": "stgmegaalc01",
+            "name": "stgmegaalc011",
             "location": "[resourceGroup().location]",
             "tags": {
-                "displayName": "stgmegaalc01"
+                "displayName": "stgmegaalc011"
             },
             "sku": {
                 "name": "Standard_LRS"
